@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="logo.png" width="220" alt="K.I.N.G. Logo">
-</p>
+
 <div align="center">
 
-# 👑 King Solomon
+# 🖥️ K.I.N.G
 
 ### Founder of K.I.N.G. • AI Engineer • Creative Builder
 
